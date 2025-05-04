@@ -7,7 +7,7 @@
     <template #body>
       <AddTask />
       <ListTasks>
-        <template #remove-button="{ index }">
+        <template #reSmove-button="{ index }">
           <button @click="store.removeTask(index)" class="btn-remover">
             ❌ Excluir
           </button>
