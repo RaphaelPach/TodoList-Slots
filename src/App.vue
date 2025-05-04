@@ -16,7 +16,7 @@
     </template>
 
     <template #bottom>
-      <small>Feito com 💙 usando Vue + Pinia</small>
+      <small>Raphael 💙 Pacheco</small>
     </template>
   </TaskLayout>
 </template>
